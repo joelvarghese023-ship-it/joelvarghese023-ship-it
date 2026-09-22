@@ -85,32 +85,6 @@ I'm particularly interested in **Artificial Intelligence, Machine Learning, Natu
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelvarghese023-sys&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelvarghese023-sys&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joelvarghese023-sys&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelvarghese023-sys&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p>
@@ -118,7 +92,7 @@ I'm particularly interested in **Artificial Intelligence, Machine Learning, Natu
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/joeljoe26/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
