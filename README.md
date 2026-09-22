@@ -85,23 +85,6 @@ I'm particularly interested in **Artificial Intelligence, Machine Learning, Natu
 
 ---
 
-## 📌 Projects
-
-🔹 **AI News Aggregator**
-AI-powered news platform using React, Node.js, Express, MongoDB and NewsAPI.
-
-🔹 **MediBridge**
-Flutter-based healthcare application connecting patients and doctors with appointment booking, real-time chat and prescription management.
-
-🔹 **Tweet Sentiment Analysis**
-NLP-based sentiment classification project exploring text preprocessing, feature extraction and machine learning.
-
-🔹 **Real-Time Chat Application**
-Web-based chat application focused on real-time communication and modern UI.
-
-> 🚧 More projects are constantly being built and experimented with.
-
----
 
 ## 📊 GitHub Stats
 
